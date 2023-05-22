@@ -1,0 +1,2 @@
+# NewsApp
+Basic Flutter NewsApp.

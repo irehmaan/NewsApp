@@ -1,4 +1,4 @@
-#Tue Apr 11 23:26:23 IST 2023
-base.0=D\:\\Flutter Training\\newsapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Mon May 22 16:53:35 IST 2023
+base.0=D\:\\FlutterProjects\\newsapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

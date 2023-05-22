@@ -2,11 +2,14 @@ com.example.newsapp-jetified-window-java-1.0.0-beta04-0 C:\Users\rehmaan\.gradle
 com.example.newsapp-core-1.6.0-1 C:\Users\rehmaan\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
 com.example.newsapp-jetified-annotation-experimental-1.1.0-2 C:\Users\rehmaan\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
 com.example.newsapp-jetified-window-1.0.0-beta04-3 C:\Users\rehmaan\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
-com.example.newsapp-debug-4 D:\Flutter Training\newsapp\android\app\src\debug\res
-com.example.newsapp-main-5 D:\Flutter Training\newsapp\android\app\src\main\res
-com.example.newsapp-pngs-6 D:\Flutter Training\newsapp\build\app\generated\res\pngs\debug
-com.example.newsapp-resValues-7 D:\Flutter Training\newsapp\build\app\generated\res\resValues\debug
-com.example.newsapp-rs-8 D:\Flutter Training\newsapp\build\app\generated\res\rs\debug
-com.example.newsapp-mergeDebugResources-9 D:\Flutter Training\newsapp\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.example.newsapp-mergeDebugResources-10 D:\Flutter Training\newsapp\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.example.newsapp-merged_res-11 D:\Flutter Training\newsapp\build\app\intermediates\merged_res\debug
+com.example.newsapp-webkit-1.6.1-4 C:\Users\rehmaan\.gradle\caches\transforms-3\fd544416a4598cded3870fdc3c94247d\transformed\webkit-1.6.1\res
+com.example.newsapp-debug-5 D:\FlutterProjects\newsapp\android\app\src\debug\res
+com.example.newsapp-main-6 D:\FlutterProjects\newsapp\android\app\src\main\res
+com.example.newsapp-pngs-7 D:\FlutterProjects\newsapp\build\app\generated\res\pngs\debug
+com.example.newsapp-resValues-8 D:\FlutterProjects\newsapp\build\app\generated\res\resValues\debug
+com.example.newsapp-rs-9 D:\FlutterProjects\newsapp\build\app\generated\res\rs\debug
+com.example.newsapp-mergeDebugResources-10 D:\FlutterProjects\newsapp\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.newsapp-mergeDebugResources-11 D:\FlutterProjects\newsapp\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.newsapp-merged_res-12 D:\FlutterProjects\newsapp\build\app\intermediates\merged_res\debug
+com.example.newsapp-packaged_res-13 D:\FlutterProjects\newsapp\build\path_provider_android\intermediates\packaged_res\debug
+com.example.newsapp-packaged_res-14 D:\FlutterProjects\newsapp\build\webview_flutter_android\intermediates\packaged_res\debug

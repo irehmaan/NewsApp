@@ -14,7 +14,7 @@ class NewsServices {
 
     List<dynamic> list = response.data['articles'];
     List<Article> article = list.map((m) => Article.fromJSON(m)).toList();
-    print(article);
+    //print(article);
     //print(article.runtimeType);
 
     return article;

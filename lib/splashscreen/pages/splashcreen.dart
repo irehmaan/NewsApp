@@ -16,7 +16,7 @@ class SplashScreen extends StatefulWidget {
 
 class _SplashScreenState extends State<SplashScreen> {
   _loadAndMove() {
-    Timer(const Duration(seconds: 4), () {
+    Timer(const Duration(seconds: 7), () {
       Navigator.pushReplacement(
           context, MaterialPageRoute(builder: (builder) => NewsApp()));
     });
